@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# This bash script will read file.txt text file and transpose its contents.
+
 if [ file.txt ]; then
     awk '
     {
