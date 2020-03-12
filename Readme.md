@@ -21,7 +21,7 @@ This repository is a collection of my solutions and explanations to Leetcode pro
 
 | # | Title | Solutions | Explanation | Difficulty |
 |---|-------|-----------|-------------|------------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution][]| [Explanation]() | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution][https://github.com/supriya-s-jadhav/LeetCode/blob/master/1.Two%20Sum/twosum.py]| [Explanation](https://github.com/supriya-s-jadhav/LeetCode/tree/master/1.Two%20Sum) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution]() | Medium |
 
 
