@@ -1,6 +1,7 @@
 """
-This script will take list of numbers and return the indices of two numbers that add up the target number.
-Given nums = [2, 7, 11, 15], target = 9,
+This script will take list of integer numbers and target integer number. It will return the indices of two numbers that add up the target number.
+Ex: Given nums = [-3,-2,-4], target = -6
+    Output: [1,2]
 """
 
 class Solution(object):

@@ -24,7 +24,7 @@ return [0, 1].
 ```
 ## My Solution
 
-My preferred solution can be found in twosum.py file in [001_Two Sum directory]()
+My preferred solution can be found in twosum.py file in [001_Two Sum directory](https://github.com/supriya-s-jadhav/LeetCode/blob/master/001_Two%20Sum/twosum.py)
 
 ## Possible Solutions
 
