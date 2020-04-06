@@ -1,4 +1,4 @@
-# LeetCoding-Using-Shell
+# LeetCode
 
 This repository is a collection of my solutions and explanations to Leetcode problems.
 
