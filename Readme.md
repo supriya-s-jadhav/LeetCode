@@ -1,3 +1,12 @@
+```
+AUTHOR: Supriya Jadhav
+
+Version: 1.0
+
+Date: April 2020
+
+```
+
 # LeetCode
 
 This repository is a collection of my solutions and explanations to Leetcode problems.
